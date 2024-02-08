@@ -1,7 +1,9 @@
 # Projeto Conversor de Moedas
 
-Este é um projeto de conversor de moedas desenvolvido utilizando HTML, CSS e JavaScript.
+<p>Este é um projeto de conversor de moedas desenvolvido utilizando HTML, CSS e JavaScript.</p>
 
-Para acessar o conversor, [clique aqui](https://brunoscm7.github.io/projeto-conversor/){:target="_blank"}.
+<p>Para acessar, <a href="https://brunoscm7.github.io/projeto-conversor/" target="_blank">clique aqui</a>.</p>
 
-Com este conversor, é possível converter entre as seguintes moedas: Real, Dólar Americano, Libra, Euro e Bitcoin.
+<p>Com esta aplicação, é possível converter entre as seguintes moedas: <strong>Real</strong>, <strong>Dólar Americano</strong>, <strong>Libra</strong>, <strong>Euro</strong> e <strong>Bitcoin</strong>.</p>
+
+<img src="assets/conv-img.png" alt="Captura do Conversor de Moedas">
